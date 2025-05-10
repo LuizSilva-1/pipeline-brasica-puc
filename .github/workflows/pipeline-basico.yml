@@ -1,4 +1,4 @@
-nome: pipeline-basico
+name: pipeline-basico
 on:
   push:
     branches: ["main"]
